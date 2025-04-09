@@ -1,6 +1,6 @@
 <br>
 
-<p align="center"><img width="300" src="/img/logo.png" alt="Solana Tracker Logo"></p>
+<p align="center"><img width="150" src="/img/logo.png" alt="Solana Tracker Logo"></p>
 
 <br>
 
